@@ -1,0 +1,4 @@
+﻿  SiecJednowarstwowa.cpp
+c:\users\madlenka\studia\informatyka\semestr 5\po\siec_neuronowa_jednowarstwowa\siec_neuronowa_jednowarstwowa\siecjednowarstwowa.cpp(141): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Siec_neuronowa_jednowarstwowa.vcxproj -> C:\Users\Madlenka\Studia\Informatyka\Semestr 5\PO\Siec_neuronowa_jednowarstwowa\Debug\Siec_neuronowa_jednowarstwowa.exe
+  Siec_neuronowa_jednowarstwowa.vcxproj -> C:\Users\Madlenka\Studia\Informatyka\Semestr 5\PO\Siec_neuronowa_jednowarstwowa\Debug\Siec_neuronowa_jednowarstwowa.pdb (Partial PDB)
